@@ -1,5 +1,8 @@
-### Hi there 👋
+<div align="center">
+  
+![Logo](https://github.com/joshp27/joshp27/blob/main/BG.gif)
 
+</div>
 <!--
 **joshp27/joshp27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
