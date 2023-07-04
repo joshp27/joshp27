@@ -3,6 +3,13 @@
 ![Logo](https://github.com/joshp27/joshp27/blob/main/bk.webp)
 
 </div>
+
+<div align="center">
+  
+Cyber Security professional with a solid military background and experience in network security, vulnerability assessment, and incident response
+
+</div> 
+
 <!--
 **joshp27/joshp27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
