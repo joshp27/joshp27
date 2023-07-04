@@ -1,6 +1,6 @@
 <div align="center">
   
-![Logo](https://github.com/joshp27/joshp27/blob/main/BG.gif)
+![Logo](https://github.com/joshp27/joshp27/blob/main/bk.webp)
 
 </div>
 <!--
