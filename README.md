@@ -10,6 +10,3 @@ Cyber Security professional with a solid military background and experience in n
 
 </div> 
 
-<img src="https://raw.githubusercontent.com/joshp27/joshp27/output/snake.svg" alt="Snake animation" />
-
-###
